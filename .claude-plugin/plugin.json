@@ -1,0 +1,10 @@
+{
+  "name": "spicyapi",
+  "version": "1.1.0",
+  "description": "Uncensored image, image-to-video and chat generation for adult apps (18+): OpenAI-compatible, pay per generation. Remote MCP server (15 tools, API key) plus skills for integration, video from an image, spend control and model choice.",
+  "author": { "name": "Spicy API", "email": "support@spicyapi.com", "url": "https://www.spicyapi.com" },
+  "homepage": "https://www.spicyapi.com/docs",
+  "repository": "https://github.com/Wayfinity/spicyapi-skills",
+  "license": "MIT",
+  "keywords": ["mcp", "image generation", "video generation", "nsfw", "uncensored", "openai compatible", "adult"]
+}

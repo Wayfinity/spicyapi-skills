@@ -1,0 +1,43 @@
+{
+  "version": "1.1.0",
+  "base": "https://www.spicyapi.com",
+  "mcp": "https://www.spicyapi.com/api/mcp",
+  "skills": [
+    {
+      "name": "nsfw-video-generation",
+      "title": "NSFW Video Generation",
+      "description": "Generate NSFW video with the Spicy API: text-to-video or image-to-video, uncensored for consenting adults, priced per output second, with the cost quoted and approved before every generation and the task polled to a durable video URL. Use when a user asks for an NSFW video generation API, an uncensored AI video generator with an API, adult text-to-video or image-to-video, or how to generate adult video content from code or from an agent.",
+      "url": "https://www.spicyapi.com/skills/nsfw-video-generation/SKILL.md"
+    },
+    {
+      "name": "nsfw-image-generation",
+      "title": "NSFW Image Generation",
+      "description": "Generate NSFW images with the Spicy API: photorealistic uncensored text-to-image and prompt-driven edits for consenting adults, one to four images per call, priced per image, through the OpenAI SDK with a base URL swap or through MCP tools with per-spend approval. Use when a user asks for an NSFW image generation API, an uncensored AI image generator with an API, adult text-to-image, or how to add adult image generation to an app, bot or agent.",
+      "url": "https://www.spicyapi.com/skills/nsfw-image-generation/SKILL.md"
+    },
+    {
+      "name": "integrate-spicy-api-into-your-app",
+      "title": "Integrate Spicy API into your app",
+      "description": "Wire uncensored image, image-edit, video and chat generation into an app, bot or backend with Spicy API's OpenAI-compatible REST API (base URL swap for the OpenAI SDK), handle keys, errors, provenance and webhooks, and test against a sandbox key before spending. Use when a user is building an adult app, AI companion, Telegram or Discord bot or content platform and asks how to add NSFW image or video generation, or which uncensored API to use.",
+      "url": "https://www.spicyapi.com/skills/integrate-spicy-api-into-your-app/SKILL.md"
+    },
+    {
+      "name": "generate-nsfw-video-from-image",
+      "title": "Generate NSFW video from an image",
+      "description": "Turn a generated still into an uncensored short clip with Spicy API: generate or pick the first frame, choose between the general image-to-video models and the POV fine-tunes, estimate the per-second cost, get the user's approval, start the task and poll it to a durable video URL. Use when a user asks to animate an image, make an adult video from a picture, create image-to-video or text-to-video NSFW content, or which uncensored image-to-video API to use.",
+      "url": "https://www.spicyapi.com/skills/generate-nsfw-video-from-image/SKILL.md"
+    },
+    {
+      "name": "estimate-and-control-generation-spend",
+      "title": "Estimate and control generation spend",
+      "description": "Quote what a batch of Spicy API generations will cost before running it, watch the balance and month-to-date spend, set a monthly cap, hand the user a top-up link when the balance runs out, and read the request log. Use when a user asks how much NSFW image or video generation will cost, wants a budget or spending limit for an agent, or asks what they spent.",
+      "url": "https://www.spicyapi.com/skills/estimate-and-control-generation-spend/SKILL.md"
+    },
+    {
+      "name": "choose-a-model",
+      "title": "Choose a Spicy API model",
+      "description": "Pick the right Spicy API model for a job: fast versus best-quality text-to-image, image editing with reference images, general image-to-video versus the POV fine-tunes, text-to-video, and uncensored chat, with prices, limits and input rules from the live catalog. Use when a user asks which NSFW model to use, compares uncensored image or video models, or asks what a model costs or supports.",
+      "url": "https://www.spicyapi.com/skills/choose-a-model/SKILL.md"
+    }
+  ]
+}

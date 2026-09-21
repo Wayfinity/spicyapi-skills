@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "spicyapi",
+  "version": "1.1.0",
+  "description": "Uncensored image, image-to-video and chat generation for adult apps (18+): OpenAI-compatible, pay per generation. Skills for the Spicy API MCP server.",
+  "author": { "name": "Spicy API", "url": "https://www.spicyapi.com" },
+  "homepage": "https://www.spicyapi.com/docs",
+  "repository": "https://github.com/Wayfinity/spicyapi-skills",
+  "license": "MIT",
+  "keywords": ["mcp", "image generation", "video generation", "nsfw", "uncensored", "openai compatible", "adult"]
+}
