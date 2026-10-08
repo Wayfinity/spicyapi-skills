@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "spicyapi": {
+      "type": "streamable-http",
+      "url": "https://www.spicyapi.com/api/mcp",
+      "headers": { "Authorization": "Bearer ${SPICYAPI_KEY}" }
+    }
+  }
+}

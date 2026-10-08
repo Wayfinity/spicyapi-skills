@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "spicyapi": {
+      "type": "http",
+      "url": "https://www.spicyapi.com/api/mcp",
+      "headers": { "Authorization": "Bearer ${SPICYAPI_KEY}" }
+    }
+  }
+}
